@@ -9,3 +9,5 @@ cd react-native-cod3r-crud
 yarn install ou npm install
 yarn start ou npx react-native start
 yarn android ou npx react-native run-android
+
+![Demo](https://github.com/JamersonWalderson/react-native-cod3r-crud/blob/main/gif-demo.gif)
